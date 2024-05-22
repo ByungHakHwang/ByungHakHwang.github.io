@@ -7,12 +7,12 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               Byung-Hak Hwang
 #tagline:             'foo's website
-description:         Foo's blog...
-url: https://lanyon-plus.sbamin.com
-baseurl: ""
-urlimg: https://lanyon-plus.sbamin.com/images/
+# description:         Foo's blog...
+url: https://byunghakhwang.github.io
+# baseurl: ""
+# urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
 #url: https://dyndna.github.io/lanyon-plus
 #baseurl: "/lanyon-plus"
@@ -62,18 +62,18 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
-  github:         xyz123abc
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
-  flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  # twitter:        abcd
+  # facebook:       
+  github:         ByungHakHwang
+  # stackexchange:  
+  # linkedin:       https://www.linkedin.com/in/foo
+  # instagram:      
+  # flickr:
+  # tumblr:  
+  # google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  orcid: 0000-0002-1802-9560
+  # gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
@@ -112,7 +112,4 @@ disqus_shortname: foo
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
 
-#### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
-version: 1.1.1
 ## END ##
