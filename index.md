@@ -1,11 +1,13 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
+title: Personal Homepage of Byung-Hak Hwang
 description: "Blogging on ...."
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+## [Byung-Hak Hwang](https://byunghakhwang.github.io)
+
+I'm a research fellow in KIAS (Korea Institute for Advanced Study).
 
 Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
 
