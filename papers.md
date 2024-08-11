@@ -3,7 +3,7 @@ layout: papers
 title: Papers
 slug: /papers
 items:
-  - title: My Interest 1
+  - title: Chromatic quasisymmetric functions and noncommutative $P$-symmetric functions
     image:
       src: /assets/img/papers/water.png
       alt: water
