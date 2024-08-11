@@ -8,8 +8,8 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="papers">
-          <h1 class="page-heading">{{ page.title }}</h1>
-          {{ content }}
+          <!-- <h1 class="page-heading">{{ page.title }}</h1> -->
+          <!-- {{ content }} -->
 
           {% for item in page.items %}
           <div class="papers-item">
@@ -26,10 +26,8 @@
               {% if item.coauthor != false %}
               <br> (with {{ item.coauthor }})
               {% endif %}
+              <br> <em>{{ item.journal }}</em>
               <br>
-              <em>{{ item.journal }}</em>
-              <br>
-              <!-- &mdash; -->
               {% if item.description != false %}
               {{ item.description }}
               {% endif %}
