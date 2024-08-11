@@ -29,7 +29,7 @@ items:
     #   src: /assets/img/papers/water.png
     #   alt: water
     arxiv: https://arxiv.org/abs/2208.09857
-    # coauthor: false
+    coauthor: false
     journal: Transactions of the American Mathematical Society, 377(4):2855–2896, 2024.
     description: The Stanley--Stembridge conjecture is a famous long-standing conjecture in algebraic combinatorics.
 
