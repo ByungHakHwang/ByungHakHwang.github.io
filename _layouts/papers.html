@@ -27,7 +27,9 @@
               <em>{{ item.journal }}</em>
               <br>
               <!-- &mdash; -->
+              {% if item.description != false %}
               {{ item.description }}
+              {% endif %}
             </span>
           </div>
           {% endfor %}
