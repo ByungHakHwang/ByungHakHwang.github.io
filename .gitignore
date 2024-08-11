@@ -8,3 +8,8 @@ _site
 *.out
 *.pdf
 *.synctex.gz
+*.cls
+*.sty
+*.bib
+template*.tex
+/CV/moderncv/*
