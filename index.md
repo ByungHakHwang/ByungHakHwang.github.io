@@ -6,8 +6,9 @@ profile_picture:
 ---
 
 <p>
-  I’m a research fellow in KIAS (Korea Institute for Advanced Study).
-   <!-- <a href="http://dangrover.com">website</a>. -->
+  I’m a research fellow in KIAS (Korea Institute for Advanced Study). </br>
+  I'm studying algebraic combinatorics and related topics.
+  Also, I'm interested in formalizing mathematics.
 </p>
 
 <p>
