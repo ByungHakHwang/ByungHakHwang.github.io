@@ -20,8 +20,11 @@
             /> -->
             <span class="papers-text">
               <strong>{{ item.title }}</strong>
-              {% if item.arxiv != false%}
+              {% if item.arxiv != false %}
               (<a href={{item.arxiv}}>arXiv</a>)
+              {% endif %}
+              {% if item.coauthor != false %}
+              <br> (with {{ item.coauthor }})
               {% endif %}
               <br>
               <em>{{ item.journal }}</em>
