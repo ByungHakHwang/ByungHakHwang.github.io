@@ -11,7 +11,7 @@ profile_picture:
 </p>
 
 <p>
-  Here is my <a href=/CV/CV_Hwang.pdf>CV</a>.
+  Here is my <a href="/CV/CV_Hwang.pdf">CV</a>.
   <!-- <a href="https://github.com/eliottvincent/bay">GitHub</a>. -->
 </p>
 
