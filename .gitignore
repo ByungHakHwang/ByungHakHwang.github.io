@@ -6,7 +6,6 @@ _site
 *.fls
 *.log
 *.out
-*.pdf
 *.synctex.gz
 *.cls
 *.sty
