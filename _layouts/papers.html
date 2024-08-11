@@ -20,8 +20,11 @@
             /> -->
             <span class="papers-text">
               <strong>{{ item.title }}</strong>
+              {% if item.arxiv != false%}
+              (<a href=item.arxiv>arxiv</a>)
+              {% endif %}
               <br>
-              ({{item.journal}})
+              ({{ item.journal }})
               <br>
               <!-- &mdash; -->
               {{ item.description }}
