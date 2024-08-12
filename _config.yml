@@ -3,7 +3,7 @@
 
 title: Byung-Hak Hwang
 description: >- # this means to ignore newlines until "baseurl:"
-  Byung-Hak's Homepage.
+  Byung-Hak's Homepage
 # baseurl: "/bay" # the subpath of the site
 url: "https://byunghakhwang.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile_pic.jpeg
