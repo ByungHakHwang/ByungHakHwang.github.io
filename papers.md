@@ -13,7 +13,7 @@ items:
     arxiv: https://arxiv.org/abs/2305.08132
     coauthor: false
     journal: submitted.
-    description: Skewing operators are 
+    description: false
 
   - title: Refined canonical stable Grothendieck polynomials and their duals, Part 1
     # image:
@@ -31,7 +31,7 @@ items:
     arxiv: https://arxiv.org/abs/2208.09857
     coauthor: false
     journal: Transactions of the American Mathematical Society, 377(4):2855–2896, 2024.
-    description: The Stanley--Stembridge conjecture is a famous long-standing conjecture in algebraic combinatorics.
+    description: false
 
   - title: A combinatorial model for the transition matrix between the Specht and $SL_2$-web bases
     arxiv: https://arxiv.org/abs/2110.08790
