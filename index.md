@@ -8,7 +8,7 @@ profile_picture:
 <p>
   I’m a research fellow in KIAS (Korea Institute for Advanced Study). <br>
   I'm studying algebraic combinatorics and related topics.
-  Also, I'm interested in formalizing mathematics.
+  Also, I'm interested in machine learning and formalizing mathematics.
 </p>
 
 <p>
