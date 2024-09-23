@@ -12,8 +12,9 @@ items:
   - title: Noncommutative symmetric functions and skewing operators
     arxiv: https://arxiv.org/abs/2305.08132
     coauthor: false
-    journal: submitted.
+    journal: Discrete Mathematics, 348(1):Paper No. 114255, 2025.
     description: false
+
 
   - title: Refined canonical stable Grothendieck polynomials and their duals, Part 1
     # image:
