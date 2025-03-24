@@ -13,3 +13,5 @@ _site
 template*.tex
 /CV/moderncv/*
 *.DS_Store
+*.pdf
+.DS_Store
