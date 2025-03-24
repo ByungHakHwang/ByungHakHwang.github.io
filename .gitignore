@@ -12,6 +12,4 @@ _site
 *.bib
 template*.tex
 /CV/moderncv/*
-*.DS_Store
-*.pdf
 .DS_Store
