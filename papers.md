@@ -3,6 +3,12 @@ layout: papers
 title: Papers
 slug: /papers
 items:
+  - title: Refinement of Hikita's $e$-positivity theorem via Abreu--Nigro's $g$-functions and restricted modular law
+    arxiv: https://arxiv.org/abs/2504.09123
+    coauthor: JiSun Huh, Donghyun Kim, Jang Soo Kim, and Jaeseong Oh
+    journal: submitted.
+    description: false
+
   - title: Refined canonical stable Grothendieck polynomials and their duals, Part 2
     arxiv: https://arxiv.org/abs/2404.02483
     coauthor: Jihyeug Jang, Jang Soo Kim, Minho Song, and U-Keun Song
