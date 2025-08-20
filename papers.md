@@ -12,7 +12,7 @@ items:
   - title: Refined canonical stable Grothendieck polynomials and their duals, Part 2
     arxiv: https://arxiv.org/abs/2404.02483
     coauthor: Jihyeug Jang, Jang Soo Kim, Minho Song, and U-Keun Song
-    journal: submitted.
+    journal: European Journal of Combinatorics, 127:Paper No. 104166, 34, 2025.
     description: false
 
   - title: Noncommutative symmetric functions and skewing operators
