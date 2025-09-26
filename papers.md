@@ -3,6 +3,12 @@ layout: papers
 title: Papers
 slug: /papers
 items:
+  - title: Composition Direction of Seymour's Theorem for Regular Matroids -- Formally Verified
+    arxiv: https://arxiv.org/abs/2509.20539
+    coauthor: Martin Dvorak, Tristan Figueroa-Reid, Rida Hamadani, Evgenia Karunus, Vladimir Kolmogorov, Alexander Meiburg, Alexander Nelson, Peter Nelson, Mark Sandey, and Ivan Sergeev.
+    journal: submitted.
+    description: false
+
   - title: Refinement of Hikita's $e$-positivity theorem via Abreu--Nigro's $g$-functions and restricted modular law
     arxiv: https://arxiv.org/abs/2504.09123
     coauthor: JiSun Huh, Donghyun Kim, Jang Soo Kim, and Jaeseong Oh
@@ -23,18 +29,12 @@ items:
 
 
   - title: Refined canonical stable Grothendieck polynomials and their duals, Part 1
-    # image:
-    #   src: /assets/img/papers/sand.png
-    #   alt: sand
     arxiv: https://arxiv.org/abs/2104.04251
     coauthor: Jihyeug Jang, Jang Soo Kim, Minho Song, and U-Keun Song
     journal: Advances in Mathematics, 446:Paper No. 109670, 42, 2024.
     description: false
 
   - title: Chromatic quasisymmetric functions and noncommutative $P$-symmetric functions
-    # image:
-    #   src: /assets/img/papers/water.png
-    #   alt: water
     arxiv: https://arxiv.org/abs/2208.09857
     coauthor: false
     journal: Transactions of the American Mathematical Society, 377(4):2855–2896, 2024.
