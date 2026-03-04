@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/kyoto1.jpeg
+  src: /assets/img/Jeju.jpeg
   alt: website picture
 ---
 
