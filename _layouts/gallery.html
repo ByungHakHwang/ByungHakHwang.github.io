@@ -13,12 +13,12 @@
           <div class="gallery-grid">
             {% for item in page.items %}
             <div class="gallery-item">
-              <a href="{{ item.src | absolute_url }}">
-                <img
-                  src="{{ item.src | absolute_url }}"
-                  alt="{{ item.alt }}"
-                />
-              </a>
+              <img
+                src="{{ item.src | absolute_url }}"
+                alt="{{ item.alt }}"
+                class="gallery-thumb"
+                onclick="openLightbox(this.src)"
+              />
               {% if item.caption %}
               <p class="gallery-caption">{{ item.caption }}</p>
               {% endif %}
@@ -28,6 +28,24 @@
         </div>
       </div>
     </div>
+
+    <div id="lightbox" class="lightbox" onclick="closeLightbox()">
+      <img id="lightbox-img" src="" alt="" />
+    </div>
+
+    <script>
+      function openLightbox(src) {
+        var lb = document.getElementById('lightbox');
+        document.getElementById('lightbox-img').src = src;
+        lb.style.display = 'flex';
+      }
+      function closeLightbox() {
+        document.getElementById('lightbox').style.display = 'none';
+      }
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') closeLightbox();
+      });
+    </script>
 
     {% include footer.html %}
 
