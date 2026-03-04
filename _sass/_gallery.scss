@@ -36,15 +36,26 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(0, 0, 0, 0.5);
   justify-content: center;
   align-items: center;
   z-index: 1000;
   cursor: pointer;
+}
+
+.lightbox-frame {
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+  max-width: 60%;
+  max-height: 80%;
+  cursor: default;
 
   img {
-    max-width: 90%;
-    max-height: 90%;
+    display: block;
+    max-width: 100%;
+    max-height: calc(80vh - 32px);
     object-fit: contain;
     border-radius: 4px;
   }
