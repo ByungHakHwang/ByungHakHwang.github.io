@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  I’m a research fellow in KIAS (Korea Institute for Advanced Study). <br>
-  I'm studying algebraic combinatorics and related topics.
-  Also, I'm interested in machine learning and formalizing mathematics.
+  I’m AI fellow in the Center for Artificial Intelligence and Natural Sciences at KIAS (Korea Institute for Advanced Study). <br>
+  My main research area is AI for mathematics, with a focus on applying AI techniques to algebraic combinatorics.
+  I also conduct research on the formalization of mathematics.
 </p>
 
 <p>
