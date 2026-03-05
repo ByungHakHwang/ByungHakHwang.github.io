@@ -3,6 +3,12 @@ layout: papers
 title: Papers
 slug: /papers
 items:
+  - title: A sign-reversing involution for the antipode of Schur functions
+    arxiv: https://arxiv.org/abs/2603.03886
+    coauthor: Younggwang Cho, Hojoon Lee
+    journal: preprint.
+    description: false
+
   - title: Composition Direction of Seymour's Theorem for Regular Matroids -- Formally Verified
     arxiv: https://arxiv.org/abs/2509.20539
     coauthor: Martin Dvorak, Tristan Figueroa-Reid, Rida Hamadani, Evgenia Karunus, Vladimir Kolmogorov, Alexander Meiburg, Alexander Nelson, Peter Nelson, Mark Sandey, and Ivan Sergeev.
