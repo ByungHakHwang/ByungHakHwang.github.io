@@ -9,7 +9,7 @@ items:
     journal: preprint
     description: false
 
-  - title: A Computational Obstruction to Swapping Area and Dinv: An Automata-Theoretic View of the $q,t$-Catalan Symmetry
+  - title: "A Computational Obstruction to Swapping Area and Dinv: An Automata-Theoretic View of the $q,t$-Catalan Symmetry"
     arxiv: https://arxiv.org/abs/2609.05005
     coauthor: Jineon Baek, Joonhyun La, and Hongseok Yang
     journal: preprint
