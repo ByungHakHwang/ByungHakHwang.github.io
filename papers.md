@@ -9,6 +9,12 @@ items:
     journal: preprint
     description: false
 
+  - title: A Computational Obstruction to Swapping Area and Dinv: An Automata-Theoretic View of the $q,t$-Catalan Symmetry
+    arxiv: https://arxiv.org/abs/2609.05005
+    coauthor: Jineon Baek, Joonhyun La, and Hongseok Yang
+    journal: preprint
+    description: false
+
   - title: A sign-reversing involution for the antipode of Schur functions
     arxiv: https://arxiv.org/abs/2603.03886
     coauthor: Younggwang Cho, Hojoon Lee
