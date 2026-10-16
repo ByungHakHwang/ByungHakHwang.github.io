@@ -3,6 +3,12 @@ layout: papers
 title: Papers
 slug: /papers
 items:
+  - title: Coefficient lifting for skew divided differences and triple Schubert coefficients
+    arxiv: https://arxiv.org/abs/2610.21053
+    coauthor: false
+    journal: preprint
+    description: false
+
   - title: A sign-reversing involution for the antipode of Schur functions
     arxiv: https://arxiv.org/abs/2603.03886
     coauthor: Younggwang Cho, Hojoon Lee
