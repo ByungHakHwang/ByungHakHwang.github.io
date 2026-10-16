@@ -15,6 +15,12 @@ items:
     journal: preprint
     description: false
 
+  - title: "Lean-GAP: A Dataset of Formalized Graduate Algebra Problems"
+    arxiv: https://arxiv.org/abs/2606.02588
+    coauthor: Seewoo Lee, Hyojae Lim, Jihoon Hyun, Ilkyoo Choi, Yeachan Park, Jineon Baek, Hyukpyo Hong, Keewoo Lee, Jaeseong Heo, Hyungryul Baik, Chul-hee Lee, and Kyu-Hwan Lee
+    journal: preprint
+    description: false
+
   - title: A sign-reversing involution for the antipode of Schur functions
     arxiv: https://arxiv.org/abs/2603.03886
     coauthor: Younggwang Cho, Hojoon Lee
